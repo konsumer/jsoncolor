@@ -9,7 +9,7 @@ It handles JSON, and JSON-serializable objects.
 ## installation
 
 ```sh
-npm i
+npm i jsoncolor
 ```
 
 ## usage
