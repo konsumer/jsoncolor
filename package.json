@@ -1,0 +1,32 @@
+{
+  "name": "jsoncolor",
+  "version": "0.0.0",
+  "description": "Configurable and simple JSON colorizer",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konsumer/jsoncolor.git"
+  },
+  "keywords": [
+    "json",
+    "syntax",
+    "highlite",
+    "color",
+    "colorizer"
+  ],
+  "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konsumer/jsoncolor/issues"
+  },
+  "homepage": "https://github.com/konsumer/jsoncolor#readme"
+}
