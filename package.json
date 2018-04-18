@@ -1,6 +1,6 @@
 {
   "name": "jsoncolor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configurable and simple JSON colorizer",
   "main": "index.js",
   "dependencies": {
