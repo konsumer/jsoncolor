@@ -1,5 +1,7 @@
 # jsoncolor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/konsumer/jsoncolor.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/konsumer/jsoncolor.svg?branch=master)](https://travis-ci.org/konsumer/jsoncolor)
 
 Configurable and simple JSON colorizer
