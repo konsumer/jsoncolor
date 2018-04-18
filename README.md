@@ -1,5 +1,7 @@
 # jsoncolor
 
+[![Build Status](https://travis-ci.org/konsumer/jsoncolor.svg?branch=master)](https://travis-ci.org/konsumer/jsoncolor)
+
 Configurable and simple JSON colorizer
 
 I had various issues with other JSON-color libraries (they choke on certain characters, etc.) I wanted something lightweight, easily configurable and simple that works, so I made this.
